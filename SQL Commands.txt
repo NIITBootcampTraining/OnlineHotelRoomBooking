@@ -1,0 +1,19 @@
+Select * from Customers
+
+Select * from UserDetails
+
+Select * from HotelTypes
+
+Select * from Hotels
+
+Select * from HotelRooms
+
+Select * from RoomFacilities
+
+Select * from Bookings
+
+Select * from BookingRecords
+
+Select * from Payments
+
+Select * from Feedbacks
